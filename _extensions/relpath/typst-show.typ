@@ -1,1 +1,1 @@
-#show: doc => relpath()
+#show: doc => relpath(doc)
