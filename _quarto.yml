@@ -1,0 +1,3 @@
+title: "Quarto Relpath Typst Example"
+format:
+  relpath-typst: default
