@@ -4,7 +4,7 @@ version: 0.1.0
 contributes:
   format:
     typst:
-      font-paths: /artifacts/.fonts
+      font-paths: .fonts
       template-partials:
         - typst-template.typ
         - typst-show.typ
