@@ -1,0 +1,9 @@
+title: Quarto Relpath Typst
+author: Haden Bunn
+version: 0.1.0
+contributes:
+  formats:
+    typst:
+      template-partials:
+        - typst-template.typ
+        - typst-show.typ
